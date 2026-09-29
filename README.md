@@ -2,6 +2,19 @@ Nama : Naila Alifatul Mabruroh
 NIM : H1D024043
 Shift : F
 
+*Pertemuan 4*
+tampilan halaman
+<img width="1080" height="2400" alt="Screenshot_20260929_114550" src="https://github.com/user-attachments/assets/6af03ae1-8056-4343-9646-77899439e9f0" />
+
+tampilan menu
+<img width="1080" height="2400" alt="Screenshot_20260929_114601" src="https://github.com/user-attachments/assets/2aa977d7-85f1-4cd2-ac4a-9abe68cb146e" />
+
+tampilan hubungi kami
+<img width="1080" height="2400" alt="Screenshot_20260929_114615" src="https://github.com/user-attachments/assets/bd443e4c-4b13-4143-8b63-7d19d4af7265" />
+
+
+
+
 *Pertemuan 3*
 
 Light theme tampilan halaman makanan
@@ -32,20 +45,6 @@ screenrecording light theme & dark theme
 https://github.com/user-attachments/assets/04a094f9-562d-42b6-b0b0-7de25700bdf5
 
 https://github.com/user-attachments/assets/229e3d2e-9f8e-448d-a002-49e0cdb487e3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Pertemuan 2
