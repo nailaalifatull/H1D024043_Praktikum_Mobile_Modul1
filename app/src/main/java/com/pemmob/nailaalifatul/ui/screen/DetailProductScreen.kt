@@ -20,6 +20,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import com.pemmob.nailaalifatul.R
@@ -140,6 +141,21 @@ fun StatelessDetailProduct(
             }
             
             Column(modifier = Modifier.padding(16.dp)) {
+                val categoryName = product.category?.name ?: "Kategori"
+                Surface(
+                    shape = RoundedCornerShape(4.dp),
+                    color = Color(0xFFF0EBF5),
+                    modifier = Modifier.padding(bottom = 8.dp)
+                ) {
+                    Text(
+                        text = categoryName,
+                        color = Color(0xFF6B4B9A), // Based on the purple badge
+                        fontSize = 12.sp,
+                        fontWeight = FontWeight.Bold,
+                        modifier = Modifier.padding(horizontal = 8.dp, vertical = 4.dp)
+                    )
+                }
+                
                 Text(
                     product.name,
                     style = MaterialTheme.typography.titleLarge,
@@ -149,7 +165,7 @@ fun StatelessDetailProduct(
                     "Rp ${product.price}",
                     style = MaterialTheme.typography.titleMedium,
                     fontWeight = FontWeight.Bold,
-                    color = Color.Black
+                    color = MainGreenColor
                 )
                 Spacer(modifier = Modifier.height(16.dp))
                 Text("Deskripsi", fontWeight = FontWeight.Bold)
