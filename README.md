@@ -2,6 +2,13 @@ Nama : Naila Alifatul Mabruroh
 NIM : H1D024043
 Shift : F
 
+*Pertemuan 5*
+tampilan halaman
+<img width="1080" height="2400" alt="Screenshot_20261007_023621" src="https://github.com/user-attachments/assets/f9a30395-9fd2-436b-b2be-77791ccf5a45" />
+
+tampilan detail produk
+<img width="1080" height="2400" alt="Screenshot_20261007_023631" src="https://github.com/user-attachments/assets/5aacc58c-0e2d-4c94-a8df-ccd8a04ba724" />
+
 *Pertemuan 4*
 tampilan halaman
 <img width="1080" height="2400" alt="Screenshot_20260929_114550" src="https://github.com/user-attachments/assets/6af03ae1-8056-4343-9646-77899439e9f0" />
